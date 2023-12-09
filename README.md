@@ -16,7 +16,7 @@ A freshman computer engineering student on a passionate quest for knowlegde. Joi
 
 <a href="mailto:helananady7@gmail.com">
   <img src="https://github.com/HelanaNady/HelanaNady/raw/main/gmail.png" alt="Gmail Icon" width="40" height="40">
-</a>
+</a> 
+<br> </br>
 
-
-
+> "Are there limits to how far a given individual can go? Yes, but those boundaries are far, far beyond what people generally accept as their own limits." - Edward B. Burger
