@@ -1,5 +1,4 @@
-![](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi,%20I'm%20Helana!&fontAlign=40&fontAlignY=40&color=0:BAF7BF,100:6FF2D4&fontColor=000000
-)
+![](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi,%20I'm%20Helana!&fontAlign=40&fontAlignY=40&color=0:BAF7BF,100:6FF2D4&fontColor=000000)
 
 <div align = "center" >
 
