@@ -1,7 +1,12 @@
 ![](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi,%20I'm%20Helana!&fontAlign=40&fontAlignY=40&color=0:BAF7BF,100:6FF2D4&fontColor=000000
 )
 
-A freshman computer engineering student on a passionate quest for knowlegde. Join me on this journey!
+<div align = "center" >
+
+### A freshman computer engineering student on a passionate quest for knowlegde
+**Join me on this journey!**
+
+</div>
 
 ## 👩‍💻 About Me
 - 🎓 Currently pursuing a degree in Computer Engineering.
