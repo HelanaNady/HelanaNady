@@ -11,9 +11,9 @@
 </div>
 
 ### 👩‍💻 About Me
-- 🎓 Currently pursuing a degree in Computer Engineering.
-- 🚀 Always ready to embrace every new challenge and opportunity.
-- 🌱 Committed to continuous learning and growth.
+- 🎓 Currently pursuing a degree in Computer Engineering at Cairo University
+- 🚀 Always ready to embrace every new challenge and opportunity
+- 🌱 Committed to continuous learning and growth
 
 ### 💬 Get in Touch:
 
