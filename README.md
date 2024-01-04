@@ -1,6 +1,6 @@
 <div align = "center" >
 
-  # 👋 Hi there, I am Helana Nady!
+  # 👋 Hi there, I'm Helana Nady!
 </div>
 
 <div align = "center" >
