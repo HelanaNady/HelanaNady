@@ -12,8 +12,8 @@
 
 ### 👩‍💻 About Me
 - 🚀 Always ready to embrace every new challenge and opportunity
-- 🌱 Committed to continuous learning and growth
-- 🎨 Beyond the realm of coding and tech, I find peace in my art and drawings
+- 🌱 I'm currently learning **DSA**
+- 🎨 Beyond the realm of coding, I find peace in my art and drawings
 
 ### 💬 Get in Touch:
 
