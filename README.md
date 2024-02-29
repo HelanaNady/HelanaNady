@@ -18,5 +18,5 @@
 #### 💬 Get in Touch:
 
 <a href="https://www.linkedin.com/in/helana-nady/">
-  <img src="https://github.com/HelanaNady/HelanaNady/raw/main/linkedin.png" alt="LinkedIn Icon" width="40" height="40">
+  <img src="https://github.com/HelanaNady/HelanaNady/raw/main/linkedin.png" alt="LinkedIn Icon" width="35" height="35">
 </a>
