@@ -10,20 +10,13 @@
 
 </div>
 
-### 👩‍💻 About Me
-- 🚀 Always ready to embrace every new challenge and opportunity
-- 🌱 I'm currently learning **DSA**
-- 🎨 Beyond the realm of coding, I find peace in my art and drawings
+#### 👩‍💻 About Me
+- 🌱 I'm currently learning **Data Structures and Algorithms**
+- 📫 How to reach me helananady7@gmail.com 
+- ⚡ **Fun fact** when I'm not coding, I find peace in creating art
 
-### 💬 Get in Touch:
+#### 💬 Get in Touch:
 
 <a href="https://www.linkedin.com/in/helana-nady/">
   <img src="https://github.com/HelanaNady/HelanaNady/raw/main/linkedin.png" alt="LinkedIn Icon" width="40" height="40">
 </a>
-
-<a href="mailto:helananady7@gmail.com">
-  <img src="https://github.com/HelanaNady/HelanaNady/raw/main/gmail.png" alt="Gmail Icon" width="40" height="40">
-</a> 
-<br> </br>
-
-> "Are there limits to how far a given individual can go? Yes, but those boundaries are far, far beyond what people generally accept as their own limits." - Edward B. Burger
