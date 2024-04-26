@@ -15,5 +15,9 @@
   <img src="https://github.com/HelanaNady/HelanaNady/raw/main/linkedin.png" alt="LinkedIn Icon" width="35" height="35">
 </a>
 
-<img src = "https://github-readme-stats.vercel.app/api?username=helananady&show_icons=true&theme=date_night" alt="Helana's GitHub stats">
+#### Stats
 
+<div align = "center" >
+	<img src = "https://github-readme-stats.vercel.app/api?username=helananady&show_icons=true&theme=date_night" height = "160" alt="Helana's GitHub stats">
+	<img src="https://streak-stats.demolab.com?user=helananady&theme=date-night&hide_border=true" height = "160" alt="Helana's Streak" />
+</div>
