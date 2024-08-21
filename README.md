@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align = "center" >
+	
+  # 👋 Hi there, I'm Helana!
+  **A Sophomore Computer Engineering Student at Cairo University**
+</div>
 
-<!--
-**HelanaNady/HelanaNady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 👩‍💻 About Me
+- 🌱 I'm currently learning **DSA and Design Patterns**
+- 📫 How to reach me helananady7@gmail.com 
+- ⚡ **Fun fact** when I'm not coding, I find peace in creating art
 
-Here are some ideas to get you started:
+#### Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align = "center" >
+	<img src = "https://github-readme-stats.vercel.app/api?username=helananady&show_icons=true&theme=date_night" height = "160" alt="Helana's GitHub stats">
+	<img src="https://streak-stats.demolab.com?user=helananady&theme=date-night&hide_border=true" height = "160" alt="Helana's Streak" />
+</div>
