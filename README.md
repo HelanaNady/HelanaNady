@@ -10,7 +10,7 @@
 
 #### Languages and Tools
 
-![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,git,bash,linux)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,git,bash,linux)](https://skillicons.dev)
 
 #### Stats
 
