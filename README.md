@@ -4,13 +4,12 @@
 </div>
 
 #### 👩‍💻 About Me
-- 🌱 I'm currently learning **DSA and Design Patterns**
-- 📫 How to reach me helananady7@gmail.com 
-- ⚡ **Fun fact** when I'm not coding, I find peace in creating art
+- 🌱 I'm currently learning **Design Patterns**
+- 📫 How to reach me helana.nady@outlook.com
 
 #### Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,git,bash,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,vue,git,bash,linux)](https://skillicons.dev)
 
 #### Stats
 
