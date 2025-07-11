@@ -1,15 +1,13 @@
 <div align="center"> 
-  <h1>👋 Hi there, I'm Helana!</h1>
-  <h4>A Sophomore Computer Engineering Student at Cairo University</h4> 
+  <h1>Hi there, I'm Helana!</h1>
 </div>
 
-#### 👩‍💻 About Me
-- 🌱 I'm currently learning **Design Patterns**
-- 📫 How to reach me helana.nady@outlook.com
+A sophomore computer engineering student @ Cairo University with a passion for creation and building things — whether through clean code or art and design. I'm drawn to challenges and problem-solving, which naturally sparked my interest in competitive programming. Beyond code, I'm a detail-oriented learner who enjoys exploring how things work and sharing what I discover through writing.
 
 #### Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,vue,git,bash,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,vue,react,figma,git,bash,linux)](https://skillicons.dev)
+
 
 #### Stats
 
