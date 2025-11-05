@@ -2,7 +2,7 @@
   <h1>Hi there, I'm Helana!</h1>
 </div>
 
-A sophomore computer engineering student @ Cairo University with a passion for creation and building things — whether through clean code or art and design. I'm drawn to challenges and problem-solving, which naturally sparked my interest in competitive programming. Beyond code, I'm a detail-oriented learner who enjoys exploring how things work and sharing what I discover through writing.
+A junior computer engineering student at Cairo University with a passion for creation and building things. Beyond code, I'm a detail-oriented learner who enjoys exploring how things work and sharing what I discover through writing.
 
 #### Languages and Tools
 
